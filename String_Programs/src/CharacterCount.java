@@ -7,6 +7,7 @@ public class CharacterCount {
 		System.out.println("Enter the Sentence: ");
 		String sentance = sc.nextLine();
 
+		System.out.println("Character Count Program");
 		spitMethod(sentance);
 	}
 
